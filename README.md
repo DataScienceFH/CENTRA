@@ -1,7 +1,6 @@
-# CENTRA
-CENTRA: Centrality-based Exploration of Network Topologies from Regulatory Assemblies
+# <a href="https://github.com/DataScienceFH/CENTRA/issues"><img src="logo_centra.png" alt="CENTRA Logo" width="800"/></a>
 
-# <a href="https://github.com/DataScienceFH/CENTRA/issues"><img src="logo_centra.png" alt="CENTRA Logo" width="160"/></a>
+CENTRA: Centrality-based Exploration of Network Topologies from Regulatory Assemblies
 
 **Click the logo to leave feedback.**  
 This repository serves as the public feedback hub for **CENTRA** — Centrality-based Exploration of Network Topologies from Regulatory Assemblies.
