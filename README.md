@@ -58,12 +58,10 @@ Feel free to create an issue for:
 
 For direct communication:
 
-**CENTRA on Bluesky:** 
-
+**CENTRA on Bluesky:**  
 https://bsky.app/profile/centrabrowser.bsky.social
 
-**CENTRA on Instagram:** 
-
+**CENTRA on Instagram:**  
 https://www.instagram.com/centra.browser
 
 **Frank Hause**  
@@ -71,7 +69,7 @@ Email: **frank.hause@medizin.uni-halle.de**
 
 ---
 
-## Citation
+## Please Cite
 
 Hause F, Wedler A, Keil R, Schian L, Glaß M, Günther W, Sorokin O, Hoehenwarter W, Sinz A, Hüttelmaier S.  
 *CENTRA: Knowledge-Based Gene Contextuality Graphs Reveal Functional Master Regulators by Centrality and Fractality.*  
