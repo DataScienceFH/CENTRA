@@ -34,6 +34,7 @@ More information is available on the project website:
 **https://ngs-info.medizin.uni-halle.de/shiny/CENTRA**
 
 For a comprehensive description of the theoretical foundations underlying CENTRA: 
+
 **https://doi.org/10.1093/nargab/lqaf196**
 
 ---
@@ -59,9 +60,11 @@ Feel free to create an issue for:
 For direct communication:
 
 **CENTRA on Bluesky:** 
+
 https://bsky.app/profile/centrabrowser.bsky.social
 
 **CENTRA on Instagram:** 
+
 https://www.instagram.com/centra.browser
 
 **Frank Hause**  
