@@ -59,10 +59,10 @@ Feel free to create an issue for:
 For direct communication:
 
 **CENTRA on Bluesky:** 
-@centrabrowser.bsky.social‬
+https://bsky.app/profile/centrabrowser.bsky.social
 
 **CENTRA on Instagram:** 
-centra.browser
+https://www.instagram.com/centra.browser
 
 **Frank Hause**  
 Email: **frank.hause@medizin.uni-halle.de**
