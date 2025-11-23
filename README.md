@@ -33,8 +33,7 @@ It allows users to:
 More information is available on the project website:  
 **https://ngs-info.medizin.uni-halle.de/shiny/CENTRA**
 
-For a comprehensive description of the theoretical foundations underlying CENTRA: 
-
+For a comprehensive description of the theoretical foundations underlying CENTRA:  
 **https://doi.org/10.1093/nargab/lqaf196**
 
 ---
